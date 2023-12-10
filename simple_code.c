@@ -9,4 +9,5 @@ int sum(void)
 	int sum = x + y;
 
 	printf("%d\n", sum);
+	return sum;
 }
